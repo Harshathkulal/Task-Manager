@@ -12,7 +12,7 @@ const Container = () => {
       </form>
       </div>
       <div className='d-flex'>
-      <p>hello wwihbewh</p>
+      <p>hello world</p>
       <button type="button" class="btn btn-outline-primary">Primary</button>
       <button type="button" class="btn btn-outline-secondary">Secondary</button>
       </div>
