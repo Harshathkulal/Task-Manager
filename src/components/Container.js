@@ -8,7 +8,7 @@ const Container = () => {
       <div className='mt-4'>
       <form class="d-flex" role="search">
         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
-        <button class="btn btn-outline-secondary" type="submit">Add</button>
+        <button class="btn btn-outline-secondary" type="submit">Add button</button>
       </form>
       </div>
       <div className='d-flex'>
